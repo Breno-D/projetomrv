@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">1073348339060</string>
+  <string name="google_storage_bucket" translatable="false">acheiimoveis-7f18d.appspot.com</string>
+  <string name="project_id" translatable="false">acheiimoveis-7f18d</string>
+  <string name="google_api_key" translatable="false">AIzaSyDLL0RCyH92tDfBMuRoSghMRGPV-67ov3Q</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLL0RCyH92tDfBMuRoSghMRGPV-67ov3Q</string>
+  <string name="google_app_id" translatable="false">1:1073348339060:android:11a6b1b2452ed5d5433821</string>
+  <string name="default_web_client_id" translatable="false">1073348339060-ffc25al6jpstmava09eib1keliob9dnb.apps.googleusercontent.com</string>
+</resources>
